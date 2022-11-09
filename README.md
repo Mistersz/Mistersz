@@ -15,7 +15,7 @@
   
   ### Other info:
   - 19 years
-  - Speak Portugues, English and a bit of Spanish
+  - Speak Portuguese, English and a bit of Spanish
   - Like Arsene Lupin
 
  
