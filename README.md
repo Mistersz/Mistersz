@@ -1,7 +1,7 @@
 <samp>
   <h1> :wave: Hey, I'm Mister :^) </h1>
 
-  # About me:  <br>
+  ### About me:  <br>
   
   I'm currently getting a bachelor degree in computer science.
   I like to study things about reverse engineering , data science, math and
