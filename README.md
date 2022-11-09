@@ -23,7 +23,7 @@
   
 
   <br>
-  <br>
+  
   
   <div align = "center" style="display: inline_block">
     <img align="center" alt="Icon C" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
