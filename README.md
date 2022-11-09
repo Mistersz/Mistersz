@@ -19,7 +19,7 @@
   - Like Arsene Lupin
 
  
-  ### Some Techs that i like to thing i know:
+  ### Some Techs that i like to think i know:
   
 
   <br>
