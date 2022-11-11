@@ -1,4 +1,4 @@
-<samp>
+
   <h1> :wave: Hey, I'm Mister :^) </h1>
 
   ### About me:  <br>
@@ -35,5 +35,4 @@
   <br>
   <br>
   
- 
-</samp>
+
