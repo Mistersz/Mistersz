@@ -14,20 +14,16 @@
   
   
   ### Other info:
-  - 19 years
+  - 20 years
   - Speak Portuguese, English and a bit of Spanish
-  - Like Arsene Lupin
-
- 
-  ### Some Techs that i like to think i know:
   
-
+  ### Some Techs that i use on my day-to-day:
+  
   <br>
-  
   
   <div align = "center" style="display: inline_block">
     <img align="center" alt="Icon C" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-    <img align="center" alt="Icon Atom" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/600px-Atom_1.0_icon.png?20160921001112"/>
+    <img align="center" alt="Icon Atom" width="70" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/nvim-icon.png"/>
     <img align="center" alt="Icon Python" width="70" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
     <img align="center" alt="Icon GIT" width="70" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
     </div> 
