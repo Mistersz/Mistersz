@@ -4,12 +4,15 @@
   ### About me:  <br>
   
   I'm currently getting a bachelor degree in computer science.
-  I like to study things about reverse engineering , data science, math and
-  philosophy.
+  Interested in infosec, especially red teaming. Also like to study reverse engineering, data science,
+  math and philosophy.
+
+  
   <br>
   
   Things on this profile are literally just for fun and to help me
-  organize myself.
+  organize myself. I will be taking notes of write-ups for CTF challenges that
+  i solve as well as of HackerRank solutions.
   <br>
   
   
