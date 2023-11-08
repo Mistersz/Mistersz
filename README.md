@@ -4,7 +4,7 @@
   ### About me:  
   
   I'm currently getting a bachelor degree in computer science.
-  Interested in infosec, especially red teaming. Also like to study reverse engineering, data science,
+  Interested in infosec, especially red teaming and mal dev. Also like to study reverse engineering, data science,
   math and philosophy.
   
   Things on this profile are literally just for fun and to help me
