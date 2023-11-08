@@ -1,14 +1,11 @@
 
   <h1> :wave: Hey, I'm Mister :^) </h1>
 
-  ### About me:  <br>
+  ### About me:  
   
   I'm currently getting a bachelor degree in computer science.
   Interested in infosec, especially red teaming. Also like to study reverse engineering, data science,
   math and philosophy.
-
-  
-  <br>
   
   Things on this profile are literally just for fun and to help me
   organize myself. I will be taking notes of write-ups for CTF challenges that
