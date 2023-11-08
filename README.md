@@ -9,7 +9,7 @@
   
   Things on this profile are literally just for fun and to help me
   organize myself. I will be taking notes of write-ups for CTF challenges that
-  i solve as well as of HackerRank solutions.
+  i solve as well as HackerRank solutions.
   <br>
   
   
