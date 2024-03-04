@@ -1,5 +1,5 @@
 
-  <h1> :wave: Hey, I'm Mister :^) </h1>
+  # Hey, I´m Mister
 
   ## About me:  
   
