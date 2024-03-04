@@ -1,7 +1,7 @@
 
   # Hey, I´m Mister
 
-  ## About me:  
+  ### About me:  
   
   I'm currently getting a bachelor degree in computer science.
   Interested in infosec, especially red teaming and pwning. Also like to study reverse engineering, data science,
@@ -16,7 +16,7 @@
 
   
   
-  ## Other info:
+  ### Other info:
   - 20 years
   - Brazilian
   - Speak Portuguese, English and a bit of Spanish
