@@ -17,7 +17,7 @@
   
   
   ### Other info:
-  - 20 years
+  - 21 years
   - Brazilian
   - Speak Portuguese, English and a bit of Spanish
   
