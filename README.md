@@ -5,6 +5,7 @@
   - infosec
   - red teaming
   - pwning / exploit dev
+  - web exploitation
   - applied math and theory of computation
   - algorithms / competitive programming
     
