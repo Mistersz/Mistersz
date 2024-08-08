@@ -14,10 +14,10 @@
   i solve as well as HackerRank solutions to coding problems.
   <br>
 
-  ### What am i doing right know?
+  ### What am i doing right know?:
 
-  Getting orange belt in pwncollege (web security related) <br>
-  Studying and practicing pwn
+  - getting orange belt in pwncollege (web security related) <br>
+  - studying and practicing pwn
 
   ### Other info:
   - 21 years
