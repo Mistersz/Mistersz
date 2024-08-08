@@ -14,9 +14,9 @@
   i solve as well as HackerRank solutions to coding problems.
   <br>
 
-  # What am i doing right know?
+  ### What am i doing right know?
 
-  Getting orange belt in pwncollege (web security related)
+  Getting orange belt in pwncollege (web security related) <br>
   Studying and practicing pwn
 
   ### Other info:
