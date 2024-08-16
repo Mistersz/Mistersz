@@ -13,7 +13,6 @@
 
   Usually like to apply knowledge that i come across (in classes or just reading some material) in a fun way to grasp it´s fundamental concepts.
   
-  <br>
 
   ### What am i doing right know?:
 
