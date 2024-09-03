@@ -24,7 +24,10 @@
   - 21 years
   - Brazilian
   - Speak Portuguese, English and a bit of Spanish
-  - THM profile: <script src="https://tryhackme.com/badge/1056845"></script>
+  - THM profile:
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xakira.png" alt="TryHackMe">
+
 
 
 
