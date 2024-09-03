@@ -1,7 +1,7 @@
 
   # Hey, I´m Mister
 
-  Interests:
+  ### Interests:
   - infosec (red teaming)
   - pwning / exploit dev
   - applied math and theory of computation
