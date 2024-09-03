@@ -20,7 +20,12 @@
   - getting orange belt in pwncollege (web security related) <br>
   - studying and practicing pwn
   - solving rooms and completing paths on tryhackme
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xakira.png" alt="TryHackMe">
+
+<br>
+<div align="center">
+	<img src="https://tryhackme-badges.s3.amazonaws.com/0xakira.png" alt="TryHackMe">
+</div>
+
 
 
   ### Other info:
