@@ -24,7 +24,9 @@
   - 21 years
   - Brazilian
   - Speak Portuguese, English and a bit of Spanish
-  
+  - THM profile: <script src="https://tryhackme.com/badge/1056845"></script>
+
+
 
   
 
