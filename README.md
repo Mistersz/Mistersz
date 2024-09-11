@@ -17,7 +17,6 @@
 
   ### What am i doing right know?:
 
-  - getting orange belt in pwncollege (web security related) <br>
   - studying and practicing pwn
   - solving rooms and completing paths on tryhackme
 
