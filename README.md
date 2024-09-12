@@ -19,6 +19,7 @@
 
   - studying and practicing pwn
   - solving rooms and completing paths on tryhackme
+  - researching about networks at RAVEL
 
 <br>
 <div align="center">
