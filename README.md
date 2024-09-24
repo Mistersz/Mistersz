@@ -5,7 +5,7 @@
   - infosec (red teaming)
   - pwning / exploit dev
   - applied math and theory of computation
-  - competitive programming
+  - digital forensics
  <br>
  
   Things on this profile are basically projects that i do for fun and solutions
