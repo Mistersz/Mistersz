@@ -6,6 +6,7 @@
   - pwning / exploit dev
   - applied math and theory of computation
   - digital forensics
+  - os
  <br>
  
   Things on this profile are basically projects that i do for fun and solutions
