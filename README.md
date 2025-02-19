@@ -13,7 +13,7 @@
   that i like to maintain in order to organize myself. I will be taking notes of write-ups for CTF challenges that
   i solve as well as HackerRank solutions to coding problems.
 
-  Usually i like to apply knowledge that i come across (in classes or by just reading some random material) in a fun and esoteric way to grasp it´s fundamental concepts and also for my own amusement.
+  Usually i like to apply knowledge that i come across (in classes or just by reading some random material) in a fun and esoteric way to grasp it´s fundamental concepts and also for my own amusement.
   
 
   ### What am i doing right know?:
