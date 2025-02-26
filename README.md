@@ -16,7 +16,7 @@
   Usually i like to apply knowledge that i come across (in classes or just by reading some random material) in a fun and esoteric way to grasp it´s fundamental concepts and also for my own amusement.
   
 
-  ### What am i doing right know?:
+  ### What am i doing?:
 
   - studying and practicing pwn
   - solving rooms and completing paths on tryhackme
