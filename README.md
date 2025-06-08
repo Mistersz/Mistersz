@@ -4,9 +4,10 @@
   ### Interests:
   - infosec (red teaming)
   - pwning / exploit dev
-  - applied math and theory of computation
+  - os internals
+  - applied math
+  - theory of computation
   - digital forensics
-  - os
  <br>
  
   Things on this profile are basically projects that i do for fun and solutions
@@ -22,6 +23,12 @@
   - solving rooms and completing paths on tryhackme
   - researching about networks at RAVEL
 
+
+
+  ### About me:
+
+  
+
 <br>
 <div align="center">
 	<img src="https://tryhackme-badges.s3.amazonaws.com/0xakira.png" alt="TryHackMe">
@@ -30,7 +37,7 @@
 
 
   ### Other info:
-  - 21 years
+  - 22 years
   - Brazilian
   - Speak Portuguese, English and a bit of Spanish
   - I enjoy turn-based rpgs
