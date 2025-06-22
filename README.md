@@ -16,8 +16,8 @@
   ### What am i doing?:
 
   - studying and practicing pwn
-  - solving rooms and completing paths on tryhackme
-  - researching about networks at RAVEL
+  - solving rooms and completing paths with web exploitation focus on THM
+  - conducting networks research and managing infrastructure at RAVEL 
 
 
   ### About me:
