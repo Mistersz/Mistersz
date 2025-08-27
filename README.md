@@ -18,7 +18,7 @@
   - studying and practicing pwn
   - solving rooms and completing paths with web exploitation focus on THM
   - conducting networks research and managing infrastructure at RAVEL
-  - working as a cybersecurity analist inteern at a startup
+  - working as a cybersecurity analist intern at a startup
 
 
   ### About me:
