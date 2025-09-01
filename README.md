@@ -17,7 +17,7 @@
 
   - studying and practicing pwn
   - solving rooms and completing paths with web exploitation focus on THM
-  - conducting networks research and managing infrastructure at RAVEL
+  - conducting networks research and managing infrastructure at RAVEL-UFRJ
   - working as a cybersecurity analist intern at SEALS-solutions
 
 
