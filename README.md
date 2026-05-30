@@ -7,13 +7,13 @@
   ### Interests:
   - kernel & browser pwn
   - microarchitecture sec
-  - network security
+  - cloud/web security
   - ai security
 
   ### What am i doing?
   - conducting research and infra work at RAVEL-UFRJ
-  - web sec and infra at seals-solutions
-  - pwn
+  - working as a cybersecurity engineer at seals-solutions
+  - pwn 
 
 
   ### About me:
