@@ -5,7 +5,7 @@
 
 
   ### Interests:
-  - exploit dev / pwning
+  - kernel & browser pwn
   - microarchitecture sec
   - network security
   - ai security
