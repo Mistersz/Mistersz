@@ -17,7 +17,6 @@ This profile is a vault for write-ups, experiments, notes, and small projects i 
 
 - Research and infrastructure work at RAVEL-UFRJ
 - Cybersecurity engineering at SEALS Solutions
-- CTF playing, challenge solving, and write-up writing
 
 ## About me:
 - I´m a 23 years old male
