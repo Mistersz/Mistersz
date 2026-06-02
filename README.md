@@ -20,7 +20,7 @@ This profile is a vault for write-ups, experiments, notes, and small projects i 
 - CTF playing, challenge solving, and write-up writing
 
 ## About me:
-I´m a 23 years old male
-Brazilian
-Speak Portuguese, English and a bit of Spanish
-I enjoy creating mental models and hacking things
+- I´m a 23 years old male
+- Brazilian
+- Speak Portuguese, English and a bit of Spanish
+- I enjoy creating mental models and hacking things
