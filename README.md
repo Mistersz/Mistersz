@@ -1,25 +1,24 @@
+Undergraduate Computer Science student at UFRJ, CTF player/director at GRIS-UFRJ, and cybersecurity/infra engineer at seals-solutions.
 
-Undergraduate Computer Science student at UFRJ, CTF player/director at GRIS-UFRJ, and cybersecurity/infra engineer at SEALS Solutions.
+I’m interested in low-level security, especially kernel and browser exploitation, virtualization security, microarch, and AI agent security.
 
-I’m interested in low-level security, especially kernel and browser exploitation, virtualization security, microarchitecture, and AI agent security.
-
-This profile is a vault for write-ups, experiments, notes, and small projects i use for esoteric knowledge.
+This profile is a vault for write-ups, experiments and ocasionally small projects i come up with for esoteric knowledge.
 
 ## Interests
 
-- Kernel and browser exploitation
-- Virtualization and sandbox security
-- Microarchitecture security
-- AI agent security
-- Cloud and web security
+- basically pwn anything that is sandboxed (even toasters)   
+- microarchitecture security
+- ai agent security
+- cloud and appsec
 
 ## Current work
 
-- Research and infrastructure work at RAVEL-UFRJ
-- Cybersecurity engineering at SEALS Solutions
+- research and infrastructure at @RAVEL-UFRJ
+- cybersecurity engineering at @seals-solutions
 
 ## About me:
-- I´m a 23 years old male
-- Brazilian
+- 23 years old, male
+- brazilian
 - Speak Portuguese, English and a bit of Spanish
-- I enjoy creating mental models and hacking things
+- i enjoy creating mental models and hacking things
+- ruy lopez fanboy
