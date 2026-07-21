@@ -9,7 +9,6 @@ This profile is a vault for write-ups, experiments and ocasionally small project
 - basically pwn anything that is sandboxed (even toasters)   
 - microarchitecture security
 - ai agent security
-- cloud and appsec
 
 ## Current work
 
