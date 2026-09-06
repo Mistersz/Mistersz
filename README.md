@@ -14,6 +14,7 @@ This profile is a vault for write-ups, experiments and ocasionally small project
 
 - research and infrastructure at @RAVEL-UFRJ
 - cybersecurity engineering at @seals-solutions
+- vulnerability research at @COMPASS-UFRJ (OffSideS project)
 
 ## About me:
 - 23 years old, male
